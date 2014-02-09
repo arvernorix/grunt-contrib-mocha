@@ -1,0 +1,39 @@
+{
+  "name": "grunt-contrib-mocha",
+  "version": "0.0.0",
+  "description": "Grunt task for running Mocha tests",
+  "author": "Meo <meo@lozi.vn> (http://arvernorix.com)",
+  "contributors": [
+    "Meo <meo@lozi.vn> (http://arvernorix.com)"
+  ],
+  "keywords": [
+    "grunt",
+    "mocha",
+    "test"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://en.wikipedia.org/wiki/MIT_License"
+    }
+  ],
+  "dependencies": {},
+  "devDependencies": {},
+  "main": "./lib/soon-to-be-here.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "engines": [
+    {
+      "node": ">= 0.8.0"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arvernorix/grunt-contrib-mocha.git"
+  },
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/arvernorix/grunt-contrib-mocha/issues"
+  }
+}
